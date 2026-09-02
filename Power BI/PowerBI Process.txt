@@ -1,0 +1,21 @@
+Task 1: Explore Charts In Power BI
+	18 Charts In 18 Page
+Date:07/08/2026
+
+Charts
+1:Funnel Chart(Charts shows the value in decreasing order) 
+2:Tree Map(Biggest will take most space in Rectangle)
+3:Ribbon Chart(maximum values on top)
+4:Sccater Chart(Trends,preiction)
+5:Guace Chart(Minimum and Maximum)
+
+6:Cards KPIs (Can select categories , sum , avg)
+7:Filter/Slicer (To show slicer and filter on dashboard)
+	note(Ctrl + Slicer Values to select more that 1)
+8:Table Chart (To show table of targeted values)
+9:Drill Throgh in Table to use the filter based on someother*
+10:Matrix Table Chart (To create a pivottable in Power BI)
+11:Button Slicer (To create a Button Slicer)
+12:Input Slicer (To create a slicer based on text input)
+13:List Slicer (to create slicer based on lists)
+14:
