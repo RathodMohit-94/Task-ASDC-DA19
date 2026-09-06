@@ -94,6 +94,7 @@ from customers where country != 'India';
 select *
 from customers order by amount_spend asc;
 
+
 --Task 17
 select *
 from customers order by amount_spend desc;
